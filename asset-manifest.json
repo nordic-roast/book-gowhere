@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/book-gowhere/static/css/main.35bac0cb.css",
+    "main.js": "/book-gowhere/static/js/main.2f89e4ce.js",
+    "static/js/453.28deffca.chunk.js": "/book-gowhere/static/js/453.28deffca.chunk.js",
+    "static/media/heroimage.webp": "/book-gowhere/static/media/heroimage.a7991909b07fe4f85f2f.webp",
+    "index.html": "/book-gowhere/index.html",
+    "main.35bac0cb.css.map": "/book-gowhere/static/css/main.35bac0cb.css.map",
+    "main.2f89e4ce.js.map": "/book-gowhere/static/js/main.2f89e4ce.js.map",
+    "453.28deffca.chunk.js.map": "/book-gowhere/static/js/453.28deffca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35bac0cb.css",
+    "static/js/main.2f89e4ce.js"
+  ]
+}
